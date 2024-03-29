@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.container{
+    text-align: center;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
